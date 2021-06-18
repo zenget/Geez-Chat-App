@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842836881066",
+    "project_id": "geez-chat",
+    "storage_bucket": "geez-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842836881066:android:e6bfa0058185e3a17b2ad3",
+        "android_client_info": {
+          "package_name": "com.geezapps.geez_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842836881066-mbfdfdfg5o40jgn1bla5h3e5s4mamunh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclhWzLHTr6ONS_8fBwWAWtw_HXTG9iHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842836881066-mbfdfdfg5o40jgn1bla5h3e5s4mamunh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
